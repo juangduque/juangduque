@@ -1,4 +1,8 @@
-### Hi there 👋
+### I am a full stack web developer with experience in the MERN stack with Redux mainly. I have developed
+applications with Firebase and GraphQL. I use SASS as a CSS preprocessor. I know how to work with
+SCRUM as an agile methodology. I have extensive knowledge in the use and management of Linux-based
+systems. I research on NLP, I have the ability to design and implement conversational agents such as
+chatbot with the Google's framework Dialogflow.
 
 <!--
 **juangduque/juangduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
