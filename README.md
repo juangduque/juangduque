@@ -4,7 +4,7 @@ how to work with SCRUM as an agile methodology. I have extensive knowledge in th
 of Linux-based systems. I research on NLP, I have the ability to design and implement conversational 
 agents such as chatbot with the Google's framework Dialogflow.
 
-You can find me at https://www.linkedin.com/in/juangduque/
+You can find me at <a href="https://www.linkedin.com/in/juangduque/">my Linkedin profile.</a> 
 
 <!--
 **juangduque/juangduque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
